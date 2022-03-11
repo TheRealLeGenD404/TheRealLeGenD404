@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm SmSm - [Zero Host](https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q) 👋
+# Hello! I'm LeGenD - [Zero Host](https://discord.gg/h9bCScXB2y) 👋
 
-### I'm Not developer, Im Just Coder, and a Discord bot Coder!
+### I'm Not developer, Im Just student
 - 📚 I'm currently learning networking, docker
 - 🎥 I upload Youtube tutorial videos
 - ⚡ I code in Node.js
 
 
-  <a href="https://discord.gg/z-h"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/h9bCScXB2y"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
 
 ***
 
@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSMSM&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="DEVSMSM" /></p>
 
 ### You can find me here:
-<a href="https://discord.gg/RMEQSbMtEk" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://discord.gg/h9bCScXB2y" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="mailto: notzero0@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://youtube.com/channel/UC5MlHXKEdpVhjhZ55NZq_3Q" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+<a href="https://www.youtube.com/channel/UCv7mwnwxXwcC7C-ASX-c4Sg" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
