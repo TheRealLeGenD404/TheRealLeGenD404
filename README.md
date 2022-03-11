@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealLeGenD404&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="TheRealLeGenD404" /></p <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/349942964904001546.png"></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealLeGenD404&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="TheRealLeGenD404" /></p <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/800994896890691605.png"></div>
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealLeGenD404&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="TheRealLeGenD404" /></p>
 
 ### You can find me here:
