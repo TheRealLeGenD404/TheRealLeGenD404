@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealLeGenD404&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="TheRealLeGenD404" /></p>
 
 ### You can find me here:
-<a href="https://discord.gg/h9bCScXB2y" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://discord.gg/ka9jAmyMpg" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="mailto: legend1980legendking@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://www.youtube.com/channel/UCv7mwnwxXwcC7C-ASX-c4Sg" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
