@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm LeGenD - [Dream Server](https://discord.gg/ka9jAmyMpg) 👋
+# Hello! I'm LeGenD - [ZERO CODES](https://discord.gg/h9bCScXB2y) 👋
 
 ### I'm Not developer, Im Just student
 - 📚 I'm currently learning networking, docker
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ I code in Node.js
 
 
-  <a href="https://discord.gg/ka9jAmyMpg"><img src="https://discord.com/api/guilds/898260911020728360/widget.png?style=banner2"></a>
+  <a href="https://discord.gg/ka9jAmyMpg"><img src="https://discord.com/api/guilds/496754973883760650/widget.png?style=banner2"></a>
 
 ***
 
